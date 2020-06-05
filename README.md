@@ -1,4 +1,4 @@
-# ![](public/assets/logo.svg)
+# ![](public/assets/capa.svg)
 
 <br/>
   

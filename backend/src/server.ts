@@ -11,5 +11,6 @@ app.use(cors());
 app.use(routes);
 
 app.use('/uploads', express.static(path.resolve(__dirname, '..', 'uploads')))
+app.use('/uploads_items', express.static(path.resolve(__dirname, '..', 'uploads_items')))
 app.use(errors());
 app.listen(3333);
